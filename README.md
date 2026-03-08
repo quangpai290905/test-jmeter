@@ -41,8 +41,8 @@ Thời gian chạy (Duration): 60 giây.
 Hành vi: Gửi yêu cầu tìm kiếm từ khóa "JMeter" qua Path /w/index.php.
 
 3. Kết quả kiểm thử thực tế
-Hình ảnh minh chứng
-
+Vidieo minh chứng
+https://drive.google.com/file/d/1PjuHAupFEYUeNWDOJhFsKCWaIr8FQ_2W/view?usp=sharing
 
 4. Phân tích và Kết luận
 Xử lý lỗi 403 Forbidden: Trong lần chạy đầu tiên, hệ thống phản hồi lỗi 403 do thiếu thông tin trình duyệt. Vấn đề này đã được khắc phục bằng cách thêm HTTP Header Manager với thuộc tính User-Agent giả lập trình duyệt Chrome.
